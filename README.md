@@ -1,6 +1,6 @@
 # ICC-2022-WC-Cricket-Match-Win-Predictor
 
-![WC Logo](wc.jpg)
+<img src='https://upload.wikimedia.org/wikipedia/ur/1/1d/ICC_T20_World_Cup_2022_Official_logo.jpg' width=400></img>
 
 I used Machine Learning to make a model using scikit-learn, pandas, numpy, seaborn and matplotlib to predict the match win of ICC WC 2022.
 
