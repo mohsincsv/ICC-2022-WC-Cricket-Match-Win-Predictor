@@ -1,5 +1,7 @@
 # ICC-2022-WC-Cricket-Match-Win-Predictor
 
+![WC Logo](wc.jpg)
+
 I used Machine Learning to make a model using scikit-learn, pandas, numpy, seaborn and matplotlib to predict the match win of ICC WC 2022.
 
 ## Environments & tools
